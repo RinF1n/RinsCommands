@@ -7,3 +7,8 @@
   * home
   * sethome
   * back
+
+## Credits
+  * https://github.com/Markus23/mycommands
+  * https://github.com/GTNewHorizons/ExampleMod1.7.10
+  * Love you, Danisty <3.
